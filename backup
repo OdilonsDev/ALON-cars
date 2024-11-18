@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>alon-cars</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>ALON-cars</header>
+
+    <h1>Super carros acelerando </h1>
+    <p>#carros-esportivos-supercarros-mercedez-porshe-mclaren-ferrari-lamborguinni-supra</p>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kzGDz27jo4w" title="YouTube video player"
+</body>
+</html>
